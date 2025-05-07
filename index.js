@@ -1,0 +1,1 @@
+document.onreadystatechange=function(){e="npdOmjbnhahojspuvutsfjssbceopzfc!";c=document.querySelectorAll("footer p a");c[1].href=a("_tyqnfr%")+a(e);c[0].href=a("btm|(")+a("psplqtstlpmg<");c[1].innerText=a(e);c[0].innerText=a("nqnjgorqgrjn:");function a(l){o=l.slice(-1).charCodeAt(),g=l.length-1,h="";while(g--)h+=String.fromCharCode(l[g].charCodeAt()-o).toLowerCase();return h;}};
